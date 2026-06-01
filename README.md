@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Mission Control Banner" src="YOUR_BANNER_URL_HERE" />
+<img width="100%" alt="Mission Control Banner" src="https://raw.githubusercontent.com/shru089/shru089/main/banner.png" />
 
 # 👋 Hey, I'm Shrishti Singh
 
